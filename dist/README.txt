@@ -1,0 +1,1 @@
+Place ton fichier profile.jpg ici (photo professionnelle 800x800).
